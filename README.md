@@ -1,5 +1,7 @@
 
 # Retail Sales Data Analysis - SQL Queries & Insights  
+![image](https://github.com/user-attachments/assets/a61c3e49-1f5f-42db-ad27-3093b524a1e5)
+
 
 This project involves SQL-based data analysis on a retail sales dataset. Below are the key business questions to address.  
 
